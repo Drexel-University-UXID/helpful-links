@@ -28,12 +28,20 @@ This is a collection of links that are helpful for students and faculty in Drexe
 
 ## Stock Assets
 
+### Visual
+
 - [Flaticon: Vector Icons](https://www.flaticon.com/)
 - [Noun Project: Vector Icons](https://thenounproject.com/)
 - [Pexel: Photos & Videos](https://www.pexels.com/)
 - [Pixabay: Photos, Vector Illustrations, Videos](https://pixabay.com/)
 - [Pixeltrue: Vector Illustrations & Animations](https://www.pixeltrue.com/free-illustrations)
 - [Unsplash: Photos](https://source.unsplash.com)
+
+### Audio
+
+- [Ambience, Foley and Soundscapes](https://www.freetousesounds.com/free-sound-effects-and-free-sound-libraries/)
+- [Freesound: Sound Effects](https://freesound.org/)
+- [Soundbible: Sound Effects](http://soundbible.com/)
 
 ## GIT
 
