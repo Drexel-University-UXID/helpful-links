@@ -22,10 +22,18 @@ This is a collection of links that are helpful for students and faculty in Drexe
 - [Blobmaker](https://www.blobmaker.app)
 - [Get Waves](https://getwaves.io)
 - [React Simple Maps](https://www.react-simple-maps.io)
-- [Free Vector Illustrations & Animations](https://www.pixeltrue.com/free-illustrations)
-- [Unsplash](https://source.unsplash.com)
 - [Favicon Generator](https://www.favicon-generator.org)
 - [Neumorphism](https://neumorphism.io/)
+- [Excalidraw](https://excalidraw.com/)
+
+## Stock Assets
+
+- [Flaticon: Vector Icons](https://www.flaticon.com/)
+- [Noun Project: Vector Icons](https://thenounproject.com/)
+- [Pexel: Photos & Videos](https://www.pexels.com/)
+- [Pixabay: Photos, Vector Illustrations, Videos](https://pixabay.com/)
+- [Pixeltrue: Vector Illustrations & Animations](https://www.pixeltrue.com/free-illustrations)
+- [Unsplash: Photos](https://source.unsplash.com)
 
 ## GIT
 
