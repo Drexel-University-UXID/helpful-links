@@ -12,6 +12,7 @@ This is a collection of links that are helpful for students and faculty in Drexe
 
 - [Transfonter](https://transfonter.org)
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/)
+- [Squoosh Image Compressor](https://squoosh.app)
 
 ## JavaScript
 
@@ -26,7 +27,19 @@ This is a collection of links that are helpful for students and faculty in Drexe
 - [Neumorphism](https://neumorphism.io/)
 - [Excalidraw](https://excalidraw.com/)
 
+## Typography
+
+- [Type Scale](https://type-scale.com)
+
 ## Stock Assets
+
+- [Burst](https://burst.shopify.com)
+- [Barn Images](https://barnimages.com)
+- [reShot](https://www.reshot.com)
+- [Life of Pix](https://www.lifeofpix.com)
+- [IM Free](http://imcreator.com/free)
+- [StockSnap](https://stocksnap.io)
+- [Gratisography](https://gratisography.com)
 
 ### Visual
 
@@ -51,3 +64,7 @@ This is a collection of links that are helpful for students and faculty in Drexe
 
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Khan Academy a11y problem visualizer](https://khan.github.io/tota11y/)
+
+## macOS
+
+- [AVIFQuickLook](https://github.com/dreampiggy/AVIFQuickLook) This is the macOS QuickLook plugin for AVIF (AV1 Image File Format).
