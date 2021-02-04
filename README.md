@@ -26,6 +26,8 @@ This is a collection of links that are helpful for students and faculty in Drexe
 - [Favicon Generator](https://www.favicon-generator.org)
 - [Neumorphism](https://neumorphism.io/)
 - [Excalidraw](https://excalidraw.com/)
+- [Figma Webp](https://www.figmatic.com/tutorials/how-to-export-web-p-images-from-figma-using-tiny-image/)
+- [Command Line Image Converter (including Webp)](https://developers.google.com/speed/webp/download)
 
 ## Typography
 
@@ -33,6 +35,7 @@ This is a collection of links that are helpful for students and faculty in Drexe
 
 ## Stock Assets
 
+- [Unsplash](https://unsplash.com)
 - [Burst](https://burst.shopify.com)
 - [Barn Images](https://barnimages.com)
 - [reShot](https://www.reshot.com)
