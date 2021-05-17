@@ -136,6 +136,7 @@ This is a collection of links that are helpful for students and faculty in Drexe
 ### Visual
 
 - [Flaticon: Vector Icons](https://www.flaticon.com/)
+- [Icon Noir](https://iconoir.com/?ref=uxdesignweekly)
 - [Noun Project: Vector Icons](https://thenounproject.com/)
 - [Pexel: Photos & Videos](https://www.pexels.com/)
 - [Pixabay: Photos, Vector Illustrations, Videos](https://pixabay.com/)
@@ -151,6 +152,7 @@ This is a collection of links that are helpful for students and faculty in Drexe
 ## Documentation
 
 - [docsify](https://docsify.js.org/#/)
+- [Screen Sizes](https://www.screensizes.app)
 
 ## GIT
 
