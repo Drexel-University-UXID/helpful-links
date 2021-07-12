@@ -4,6 +4,8 @@
 
 This is a collection of links that are helpful for students and faculty in Drexel's Interactive Digital Media department. Please feel free to contribute to the collection with anything you find valuable! Add new sections as needed.
 
+If you can't find something you're looking for check out the [Awesome](https://github.com/sindresorhus/awesome) lists. They are curated lists covering a huge range of topics many of which are oriented at various areas of development. There's a good chance you can find what you're looking for. If you do, consider adding it to this repo as others may be looking for the same thing!
+
 ## HTML
 
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
