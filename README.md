@@ -158,6 +158,8 @@ This is a collection of links that are helpful for students and faculty in Drexe
 
 - [gitmo😂ji](https://gitmoji.dev)
 - [Git Command Explorer](https://gitexplorer.com)
+- [Bisect](https://git-scm.com/docs/git-bisect)
+- [Fixup](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
 
 ## Accessibility
 
