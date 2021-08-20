@@ -12,11 +12,14 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ## CSS
 
-- [Grid Cheatsheet](https://grid.malven.co/)
+- [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)
 - [Flexbox Cheatsheet](https://flexbox.malven.co/)
-- [Transfonter](https://transfonter.org)
+- [Fluid Typography](https://fluid-typography.netlify.app/?mc_cid=631da96355&mc_eid=aad7905fc1)
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/)
+- [Grid Cheatsheet](https://grid.malven.co/)
 - [Squoosh Image Compressor](https://squoosh.app)
+- [The Power of Composition with CSS Variables](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/)
+- [Transfonter](https://transfonter.org)
 
 ## JavaScript
 
@@ -28,6 +31,8 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Excalidraw](https://excalidraw.com/)
 - [Favicon Generator](https://www.favicon-generator.org)
 - [Favicon Maker](https://formito.com/tools/favicon)
+- [How to design delightful dark themes](https://blog.superhuman.com/how-to-design-delightful-dark-themes/)
+- [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
 - [Figma Handbook](https://designcode.io/figma-handbook)
 - [Figma Webp](https://www.figmatic.com/tutorials/how-to-export-web-p-images-from-figma-using-tiny-image/)
 - [Icon Packs](https://raptis.wtf/blog/best-icon-packs-for-building-beautiful-web-apps)
