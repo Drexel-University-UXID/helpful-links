@@ -6,6 +6,8 @@ This is a collection of links that are helpful for students and faculty in Drexe
 
 If you can't find something you're looking for check out the [Awesome](https://github.com/sindresorhus/awesome) lists. They are curated lists covering a huge range of topics many of which are oriented at various areas of development. There's a good chance you can find what you're looking for. If you do, consider adding it to this repo as others may be looking for the same thing!
 
+- [Front End Case Studies](https://github.com/andrew--r/frontend-case-studies)
+
 ## HTML
 
 - [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
