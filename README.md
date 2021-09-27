@@ -31,6 +31,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 - [Command Line Image Converter (including Webp)](https://developers.google.com/speed/webp/download)
 - [Excalidraw](https://excalidraw.com/)
+- [Favicon Generator. For Real](https://realfavicongenerator.net)
 - [Favicon Generator](https://www.favicon-generator.org)
 - [Favicon Maker](https://formito.com/tools/favicon)
 - [How to design delightful dark themes](https://blog.superhuman.com/how-to-design-delightful-dark-themes/)
