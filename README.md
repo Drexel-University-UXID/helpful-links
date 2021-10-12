@@ -148,6 +148,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 ### Visual
 
 - [Flaticon: Vector Icons](https://www.flaticon.com/)
+- [HeroIcons](https://heroicons.com)
 - [Icon Noir](https://iconoir.com/?ref=uxdesignweekly)
 - [Noun Project: Vector Icons](https://thenounproject.com/)
 - [Pexel: Photos & Videos](https://www.pexels.com/)
