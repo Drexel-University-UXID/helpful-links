@@ -34,12 +34,15 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Favicon Generator. For Real](https://realfavicongenerator.net)
 - [Favicon Generator](https://www.favicon-generator.org)
 - [Favicon Maker](https://formito.com/tools/favicon)
-- [How to design delightful dark themes](https://blog.superhuman.com/how-to-design-delightful-dark-themes/)
-- [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
 - [Figma Handbook](https://designcode.io/figma-handbook)
 - [Figma Webp](https://www.figmatic.com/tutorials/how-to-export-web-p-images-from-figma-using-tiny-image/)
+- [How to design delightful dark themes](https://blog.superhuman.com/how-to-design-delightful-dark-themes/)
+- [How to Favicon in 2021](https://css-tricks.com/how-to-favicon-in-2021/)
 - [Icon Packs](https://raptis.wtf/blog/best-icon-packs-for-building-beautiful-web-apps)
+- [Morflax 3D Device Mockups](https://morflax.com/things)
 - [Neumorphism](https://neumorphism.io/)
+- [Next UI](https://nextui.org)
+- [Radix UI](https://radix-ui.com)
 - [React Simple Maps](https://www.react-simple-maps.io)
 
 ### SVG Background Generators
@@ -133,29 +136,28 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 - [Barn Images](https://barnimages.com)
 - [Burst](https://burst.shopify.com)
+- [Flaticon: Vector Icons](https://www.flaticon.com/)
 - [Free Illustrations](https://freeillustrations.xyz)
 - [Graphicmaker](https://designs.ai/graphicmaker/)
 - [Gratisography](https://gratisography.com)
+- [HeroIcons](https://heroicons.com)
+- [Icon Noir](https://iconoir.com/?ref=uxdesignweekly)
 - [Iconic](https://iconic.app)
 - [IM Free](http://imcreator.com/free)
 - [Interfacer](https://interfacer.xyz)
+- [Jam Icons](https://jam-icons.com)
 - [Life of Pix](https://www.lifeofpix.com)
-- [Outlane](https://outlane.co/topics/freebie/)
-- [reShot](https://www.reshot.com)
-- [StockSnap](https://stocksnap.io)
-- [Storyset](http://storyset.com)
-- [Unsplash](https://unsplash.com)
-
-### Visual
-
-- [Flaticon: Vector Icons](https://www.flaticon.com/)
-- [HeroIcons](https://heroicons.com)
-- [Icon Noir](https://iconoir.com/?ref=uxdesignweekly)
 - [Noun Project: Vector Icons](https://thenounproject.com/)
+- [Outlane](https://outlane.co/topics/freebie/)
 - [Pexel: Photos & Videos](https://www.pexels.com/)
 - [Pixabay: Photos, Vector Illustrations, Videos](https://pixabay.com/)
 - [Pixeltrue: Vector Illustrations & Animations](https://www.pixeltrue.com/free-illustrations)
-- [Unsplash: Photos](https://source.unsplash.com)
+- [reShot](https://www.reshot.com)
+- [StockSnap](https://stocksnap.io)
+- [Storyset](http://storyset.com)
+- [UI Design Vault](http://bestplaces.net)
+- [Unsplash Developer](https://source.unsplash.com)
+- [Unsplash](https://unsplash.com)
 
 ### Audio
 
@@ -174,6 +176,8 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Git Command Explorer](https://gitexplorer.com)
 - [Bisect](https://git-scm.com/docs/git-bisect)
 - [Fixup](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
+- [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
+- [GitHub Lists](https://github.blog/changelog/2021-12-09-lists-are-now-available-as-a-public-beta/)
 
 ## Accessibility
 
@@ -202,3 +206,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 ## macOS
 
 - [AVIFQuickLook](https://github.com/dreampiggy/AVIFQuickLook) This is the macOS QuickLook plugin for AVIF (AV1 Image File Format).
+
+## Deployment
+
+- [Netlify Drop](https://app.netlify.com/drop)
