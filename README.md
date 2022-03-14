@@ -19,9 +19,17 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Fluid Typography](https://fluid-typography.netlify.app/?mc_cid=631da96355&mc_eid=aad7905fc1)
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/)
 - [Grid Cheatsheet](https://grid.malven.co/)
+- [Multiline Gradient Background](https://codepen.io/matthiasott/pen/aQxBOB)
+- [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
 - [Squoosh Image Compressor](https://squoosh.app)
 - [The Power of Composition with CSS Variables](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/)
 - [Transfonter](https://transfonter.org)
+
+### 👀 Keep Your Eyes On
+
+- [Cascade Layers](https://css-tricks.com/css-cascade-layers/)
+- [CSS Image Set](https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/)
+- [LCH Color Space](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
 
 ## JavaScript
 
@@ -48,10 +56,12 @@ If you can't find something you're looking for check out the [Awesome](https://g
 ### SVG Background Generators
 
 - [Blobmaker](https://www.blobmaker.app)
+- [Blobs With a Twist](https://fffuel.co/ssshape/)
 - [Cool Backgrounds](https://coolbackgrounds.io/)
 - [Flow Lines Generator](https://msurguy.github.io/flow-lines/)
 - [Get Waves](https://getwaves.io)
 - [Getwaves](https://getwaves.io/)
+- [Grainy Gradients](https://css-tricks.com/grainy-gradients/)
 - [HeroPatterns](http://www.heropatterns.com/)
 - [Kumiko Generator](https://kumiko-generator.netlify.app/)
 - [Loading.io](https://loading.io/background/m-wave/)
@@ -109,6 +119,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ### SVG Spritesheets
 
+- [flag icons](https://flagpack.xyz)
 - [svg spreact](https://svgsprit.es/)
 
 ### SVG Animation
@@ -165,6 +176,10 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Freesound: Sound Effects](https://freesound.org/)
 - [Soundbible: Sound Effects](http://soundbible.com/)
 
+## APIs
+
+- [The Ultimate Guide to APIs](https://qmo.io/blog/ultimate-guide-to-api-design/#restful-architecture)
+
 ## Documentation
 
 - [docsify](https://docsify.js.org/#/)
@@ -172,12 +187,13 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ## GIT
 
-- [gitmo😂ji](https://gitmoji.dev)
-- [Git Command Explorer](https://gitexplorer.com)
 - [Bisect](https://git-scm.com/docs/git-bisect)
 - [Fixup](https://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
+- [Git Command Explorer](https://gitexplorer.com)
 - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 - [GitHub Lists](https://github.blog/changelog/2021-12-09-lists-are-now-available-as-a-public-beta/)
+- [Gitignore Builder](https://www.toptal.com/developers/gitignore)
+- [gitmo😂ji](https://gitmoji.dev)
 
 ## Accessibility
 
@@ -203,6 +219,10 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [sort-imports](https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports)
 
+## Productivity
+
+- [productivity.so](https://productivity.so/all)
+
 ## macOS
 
 - [AVIFQuickLook](https://github.com/dreampiggy/AVIFQuickLook) This is the macOS QuickLook plugin for AVIF (AV1 Image File Format).
@@ -210,3 +230,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 ## Deployment
 
 - [Netlify Drop](https://app.netlify.com/drop)
+
+## Themes
+
+- [Themer](https://themer.dev)
