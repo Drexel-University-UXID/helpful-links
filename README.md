@@ -19,6 +19,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Fluid Typography](https://fluid-typography.netlify.app/?mc_cid=631da96355&mc_eid=aad7905fc1)
 - [Google Webfonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/)
 - [Grid Cheatsheet](https://grid.malven.co/)
+- [Mesher](https://csshero.org/mesher/)
 - [Multiline Gradient Background](https://codepen.io/matthiasott/pen/aQxBOB)
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
 - [Squoosh Image Compressor](https://squoosh.app)
@@ -31,9 +32,9 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [CSS Image Set](https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/)
 - [LCH Color Space](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
 
-## JavaScript
+## Data Visualization
 
-- [`.map()`, `.reduce()`, `.filter()`](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+- [Which fonts to use for your charts and tables](https://blog.datawrapper.de/fonts-for-data-visualization/#figure-style)
 
 ## Design
 
@@ -145,10 +146,12 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ## Stock Assets
 
+- [Atlas Icons](https://atlasicons.vectopus.com)
 - [Barn Images](https://barnimages.com)
 - [Burst](https://burst.shopify.com)
 - [Flaticon: Vector Icons](https://www.flaticon.com/)
 - [Free Illustrations](https://freeillustrations.xyz)
+- [Glyphs](https://glyphs.fyi)
 - [Graphicmaker](https://designs.ai/graphicmaker/)
 - [Gratisography](https://gratisography.com)
 - [HeroIcons](https://heroicons.com)
