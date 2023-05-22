@@ -187,6 +187,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 - [docsify](https://docsify.js.org/#/)
 - [Screen Sizes](https://www.screensizes.app)
+- [Structure Your React Apps Like It’s 2030](https://blog.devgenius.io/structure-your-react-apps-like-its-2030-aef02097cb3)
 
 ## GIT
 
