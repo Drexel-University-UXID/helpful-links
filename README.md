@@ -14,6 +14,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ## CSS
 
+- [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors)
 - [A Modern CSS Reset](https://piccalil.li/blog/a-modern-css-reset/)
 - [Flexbox Cheatsheet](https://flexbox.malven.co/)
 - [Fluid Typography](https://fluid-typography.netlify.app/?mc_cid=631da96355&mc_eid=aad7905fc1)
