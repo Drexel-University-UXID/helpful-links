@@ -226,6 +226,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ## Productivity
 
+- [Naming things needn't be hard](https://classnames.paulrobertlloyd.com)
 - [productivity.so](https://productivity.so/all)
 
 ## macOS
