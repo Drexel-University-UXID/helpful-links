@@ -207,6 +207,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ## Visual Studio Code
 
+- [Awesome VSCode](https://viatsko.github.io/awesome-vscode/)
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info)
