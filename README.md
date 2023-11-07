@@ -22,6 +22,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [Grid Cheatsheet](https://grid.malven.co/)
 - [Mesher](https://csshero.org/mesher/)
 - [Multiline Gradient Background](https://codepen.io/matthiasott/pen/aQxBOB)
+- [Naming Variables in CSS](https://jwdallas.com/posts/namingcssvariables/)
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/)
 - [Squoosh Image Compressor](https://squoosh.app)
 - [The Power of Composition with CSS Variables](https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/)
