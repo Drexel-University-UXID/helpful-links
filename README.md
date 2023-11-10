@@ -40,6 +40,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 
 ## Design
 
+- [Visual design rules you can safely follow](https://anthonyhobday.com/sideprojects/saferules/)
 - [Command Line Image Converter (including Webp)](https://developers.google.com/speed/webp/download)
 - [Excalidraw](https://excalidraw.com/)
 - [Favicon Generator. For Real](https://realfavicongenerator.net)
