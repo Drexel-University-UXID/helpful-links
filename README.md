@@ -172,6 +172,7 @@ If you can't find something you're looking for check out the [Awesome](https://g
 - [reShot](https://www.reshot.com)
 - [StockSnap](https://stocksnap.io)
 - [Storyset](http://storyset.com)
+- [Tech Icons](https://techicons.dev)
 - [UI Design Vault](http://bestplaces.net)
 - [Unsplash Developer](https://source.unsplash.com)
 - [Unsplash](https://unsplash.com)
